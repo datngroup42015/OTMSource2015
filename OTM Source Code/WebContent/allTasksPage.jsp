@@ -1,11 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <jsp:include page="headerManager.jsp" />
 <!-- Start Page Content -->
 <title>Tasks in Project</title>
 <h2 class="page-header" style="color: grey;">&nbsp;&nbsp;&nbsp;&nbsp;Tasks in Project</h2>
 <div class="col-md-12">	
 	<ul class="nav nav-tabs">
-  		<li role="presentation" class="active"><a data-toggle="tab" href="#myTask">My Tasks</a></li>
-  		<li role="presentation"><a data-toggle="tab" href="#allTask">All Tasks</a></li>
+  		<li class="active"><a data-toggle="tab" href="#myTask">My Tasks</a></li>
+  		<li><a data-toggle="tab" href="#allTask">All Tasks</a></li>
 	</ul>
 	<div class="tab-content">
 	<br>
