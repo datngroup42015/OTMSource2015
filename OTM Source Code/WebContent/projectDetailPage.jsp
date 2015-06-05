@@ -10,6 +10,7 @@
   		<li><a data-toggle="tab" href="#member"><i class="fa fa-users"></i> Members</a></li>
   		<li class="pull-right"><a href="#"><i class="fa fa-comments"></i> Forum</a></li>
   		<li class="pull-right"><a href="#"><i class="glyphicon glyphicon-log-in"></i> Add Member</a></li>
+  		<li class="pull-right"><a href="#"><i class="fa fa-tasks"></i> Tasks</a></li>
 	</ul>
 	<div class="tab-content">
 	<br>
