@@ -19,7 +19,9 @@
 					<label>Project Creator: </label>
 					<span>Lê Hải Triều</span> <br> 
 					<label>Project Manager: </label>
-					<span>Nguyễn Cu Đất</span> <br> 
+					<span>Nguyễn Cu Đất</span> <br>
+					<label>Skills: </label>
+					<span>Java</span>,&nbsp;<span>MySQL</span>,&nbsp;<span>Hibernate</span>,&nbsp; <br>
 					<label>Start Date: </label>	
 					<span>01/01/2015</span>
 					&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +31,7 @@
 					<span>In progress</span> <br>
 					<label>Description: </label>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+					
 				</div>
 				<div class="col-md-3">
 					<ul class="nav nav-stacked">
