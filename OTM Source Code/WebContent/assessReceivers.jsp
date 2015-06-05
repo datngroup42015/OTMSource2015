@@ -36,12 +36,12 @@
         <table id="assessTable" class="table table-condensed">
 			    <thead>
 			      <tr>
-			        <th>Employee Name</th>
+			        <th>Creator</th>
 			        <th>Role</th>
-			        <th>Username</th>
-			        <th>Assessment Status</th>
-			        <th>Details</th>
-			        <th>Assessment</th>
+			        <th>Summary</th>
+			        <th>Mark</th>
+			        <th>Accept</th>
+			        <th>Reject</th>
 			        
 			      </tr>
 			    </thead>
@@ -49,78 +49,67 @@
 			      <tr>
 			        <td>Bruce Lee</td>
 			        <td>Manager</td>
-			        <td>leebruce01</td>
-			        <td>Feedback</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >View Details</button></td>
+			        <td><p>You are really GOOD!</p></td>
+			        <td>10</td>
+			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >Accept</button></td>
 			        <td>
 			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
+			        	Reject
 			        	</button>
 			        </td>
 			       
 			      </tr>
 			      <tr>
-			        <td>Lee Hyun Yeon</td>
+			        <td>Bruce Lee</td>
 			        <td>Manager</td>
-			        <td>yeonhuynlee</td>
-			        <td>Closed</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;">View Details</button></td>
+			        <td><p>You are really GOOD!</p></td>
+			        <td>10</td>
+			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >Accept</button></td>
 			        <td>
 			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
+			        	Reject
 			        	</button>
 			        </td>
 			        
 			      </tr>
 			      <tr>
-			        <td>Alexander III</td>
+			       	<td>Bruce Lee</td>
 			        <td>Manager</td>
-			        <td>alex3</td>
-			        <td>Started</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;">View Details</button></td>
-			       <td>
-			        	<button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
+			        <td><p>You are really GOOD!</p></td>
+			        <td>10</td>
+			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >Accept</button></td>
+			        <td>
+			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+			        	Reject
 			        	</button>
 			        </td>
 			        
 			      </tr>
 			      <tr>
-			        <td>John Paker</td>
+			        <td>Bruce Lee</td>
 			        <td>Manager</td>
-			        <td>pakerjohn</td>
-			        <td>Started</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;">View Details</button></td>
-			       <td>
-			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
-			        	</button>
-			        </td>
-			      </tr>
-			      <tr>
-			        <td>Kitaro</td>
-			        <td>Manager</td>
-			        <td>kitaro</td>
-			        <td>Started</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;">View Details</button></td>
-			       <td>
-			        	<button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
-			        	</button>
-			        </td>
-			      </tr>
-			      <tr>
-			        <td>Kawaguchi Genbu</td>
-			        <td>Manager</td>
-			        <td>genbukawaguchi11</td>
-			        <td>Started</td>
-			        <td><button type="button" class="btn btn-primary" style="width: 100px;">View Details</button></td>
+			        <td><p>You are really GOOD!</p></td>
+			        <td>10</td>
+			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >Accept</button></td>
 			        <td>
 			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-			        	Make Assessment
+			        	Reject
 			        	</button>
 			        </td>
 			      </tr>
+			      <tr>
+			        <td>John</td>
+			        <td>Director</td>
+			        <td><p>You are really BAD!</p></td>
+			        <td>1</td>
+			        <td><button type="button" class="btn btn-primary" style="width: 100px;" >Accept</button></td>
+			        <td>
+			        	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+			        	Reject
+			        	</button>
+			        </td>
+			      </tr>
+			      
 			    </tbody>
 		  	</table>
         </div>
