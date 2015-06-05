@@ -13,6 +13,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet"/>
 <link href="css/admin/sb-admin-2.css" rel="stylesheet"/>
 <link href="css/bootstrap-datetimepicker.css" rel="stylesheet" />
+<link href="css/jquery.dataTables.css" rel="stylesheet"/>
    
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
